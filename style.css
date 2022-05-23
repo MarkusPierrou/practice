@@ -16,7 +16,7 @@
     /* navbar */
     
     .navbar {
-        background: url(/practice.website.net2/images/Wallpapersmall.jpg);
+        background: url(/images/Wallpapersmall.jpg);
         height: 700px;
         display: flex;
         justify-content: center;
@@ -151,7 +151,7 @@
     
     .parallax {
         display: flex;
-        background: url(/practice.website.net2/images/pexels-francesco-ungaro-2325446.jpg) repeat fixed 100%;
+        background: url(/images/pexels-francesco-ungaro-2325446.jpg) repeat fixed 100%;
         margin-top: 150px;
         justify-content: center;
         align-items: center;
